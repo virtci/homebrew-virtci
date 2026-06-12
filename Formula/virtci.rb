@@ -1,9 +1,9 @@
 class Virtci < Formula
   desc "Virtual machine CI runner"
   homepage "https://www.virtci.com"
-  url "https://github.com/virtci/virtci/releases/download/v0.3.0/virtci-macos-multiarch.tar.gz"
-  sha256 "3e6a295e5e34c5c4bb338a9f3cceb428ed03e63f2f0912e6970b3d8662af415a"
-  version "0.3.0"
+  url "https://github.com/virtci/virtci/releases/download/v0.3.1/virtci-macos-multiarch.tar.gz"
+  sha256 "18ef6aa14d3abddffa0d7f8a715e0b89588bd39104535257799c18e4f64cd3be"
+  version "0.3.1"
   
   depends_on :macos
   depends_on "qemu"
